@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinations>
+    <destination>
+        <name>Kopenhagen - Grad male sirene</name>
+        <country>Danska</country>
+        <image>images/copenhagen.png</image>
+        <description>Kopenhagen kombinira bogatu povijest, modernu arhitekturu i živahnu kulturu. Poznat po luci,
+            palačama i
+            šarmantnim ulicama, nudi obilje mogućnosti za istraživanje nordijske kuhinje, kupovinu i kulturne
+            aktivnosti.
+        </description>
+        <best_time_to_visit>Proljeće i ljeto</best_time_to_visit>
+        <recommended_stay>3-4 dana</recommended_stay>
+        <average_cost>500</average_cost>
+        <currency>EUR</currency>
+        <read_more>22 min</read_more>
+    </destination>
+    <destination>
+        <name>Trondheim - Povijesni centar Norveške</name>
+        <country>Norveška</country>
+        <image>images/trondheim.png</image>
+        <description>Trondheim je poznat po svojoj bogatoj povijesti, prekrasnoj Nidaros katedrali koja svjedoči o
+            prošlosti grada,
+            i živopisnim drvenim kućama koje očaravaju posjetitelje svojom autentičnom ljepotom.
+        </description>
+        <best_time_to_visit>Proljeće i ljeto</best_time_to_visit>
+        <recommended_stay>2-3 dana</recommended_stay>
+        <average_cost>600</average_cost>
+        <currency>EUR</currency>
+        <read_more>20 min</read_more>
+    </destination>
+    <destination>
+        <name>Tromsø - Vrata Arktika</name>
+        <country>Norveška</country>
+        <image>images/tromso.png</image>
+        <description>Tromsø je poznat po svojoj arktičkoj ljepoti koja oduzima dah, pružajući posjetiteljima priliku da
+            uživaju u
+            spektakularnim prirodnim fenomenima poput aurora borealis. Grad je idealan za avanturiste i ljubitelje
+            prirode.</description>
+        <best_time_to_visit>Zima</best_time_to_visit>
+        <recommended_stay>3-5 dana</recommended_stay>
+        <average_cost>700</average_cost>
+        <currency>EUR</currency>
+        <read_more>25 min</read_more>
+    </destination>
+    <destination>
+        <name>Reykjavik - Srce Islanda</name>
+        <country>Island</country>
+        <image>images/reykjavik.png</image>
+        <description>Reykjavik, glavni grad Islanda, oduševljava svojom živopisnom umjetničkom scenom i blizinom
+            prirodnih čuda. Grad nudi šarmantne uličice, moderne galerije i živahne barove.</description>
+        <best_time_to_visit>Proljeće i ljeto</best_time_to_visit>
+        <recommended_stay>3-4 dana</recommended_stay>
+        <average_cost>650</average_cost>
+        <currency>EUR</currency>
+        <read_more>28 min</read_more>
+    </destination>
+    <destination>
+        <name>Helsinki - Dizajnerski dragulj</name>
+        <country>Finska</country>
+        <image>images/helsinki.png</image>
+        <description>Helsinki očarava svojim dizajnerskim distriktom, spektakularnom arhitekturom i prekrasnom
+            obalom. Grad je živo kulturno središte s brojnim muzejima i galerijama.</description>
+        <best_time_to_visit>Ljeto</best_time_to_visit>
+        <recommended_stay>2-4 dana</recommended_stay>
+        <average_cost>550</average_cost>
+        <currency>EUR</currency>
+        <read_more>22 min</read_more>
+    </destination>
+    <destination>
+        <name>Zürich - Financijska prijestolnica</name>
+        <country>Švicarska</country>
+        <image>images/zurich.png</image>
+        <description>Zürich je poznat po svojoj financijskoj moći, prekrasnim jezerima i planinama. Grad nudi bogat
+            noćni život, luksuzne trgovine i vrhunsku gastronomiju.</description>
+        <best_time_to_visit>Ljeto</best_time_to_visit>
+        <recommended_stay>2-3 dana</recommended_stay>
+        <average_cost>700</average_cost>
+        <currency>EUR</currency>
+        <read_more>27 min</read_more>
+    </destination>
+    <destination>
+        <name>Lausanne - Olimpijski grad</name>
+        <country>Švicarska</country>
+        <image>images/lausanne.png</image>
+        <description>Lausanne, smješten na obali Ženevskog jezera, poznat je kao sjedište Međunarodnog olimpijskog
+            odbora. Grad nudi prekrasne pejzaže, muzeje i kulturne događaje.</description>
+        <best_time_to_visit>Proljeće i ljeto</best_time_to_visit>
+        <recommended_stay>2-3 dana</recommended_stay>
+        <average_cost>600</average_cost>
+        <currency>EUR</currency>
+        <read_more>23 min</read_more>
+    </destination>
+    <destination>
+        <name>Hamburg - Grad luka</name>
+        <country>Njemačka</country>
+        <image>images/hamburg.png</image>
+        <description>Hamburg je poznat po svojoj velikoj luci, modernoj arhitekturi i bogatoj kulturnoj sceni. Grad
+            nudi brojne muzeje, galerije i koncerte.</description>
+        <best_time_to_visit>Proljeće i ljeto</best_time_to_visit>
+        <recommended_stay>2-3 dana</recommended_stay>
+        <average_cost>550</average_cost>
+        <currency>EUR</currency>
+        <read_more>24 min</read_more>
+    </destination>
+    <destination>
+        <name>Innsbruck - Alpski dragulj</name>
+        <country>Austrija</country>
+        <image>images/innsbruck.png</image>
+        <description>Innsbruck, smješten u srcu Alpa, poznat je po zimskim sportovima i prekrasnim planinskim
+            pejzažima. Grad nudi brojne aktivnosti na otvorenom i kulturne atrakcije.</description>
+        <best_time_to_visit>Zima</best_time_to_visit>
+        <recommended_stay>2-3 dana</recommended_stay>
+        <average_cost>600</average_cost>
+        <currency>EUR</currency>
+        <read_more>23 min</read_more>
+    </destination>
+</destinations>
